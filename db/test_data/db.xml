@@ -1,0 +1,12 @@
+<ItemSet>
+    <Requests>
+        <Item name="request" r="Как быстро пройти в библиотеку" a="Идти прямо"> </Item>
+    </Requests>
+
+    <Synonyms>
+        <Item name="syn" w="пройти" s="проехать"> </Item>
+        <Item name="syn" w="библиотеку" s="книжный" > </Item>
+        <Item name="syn" w="быстро" s="оперативно" > </Item>
+        <Item name="syn" w="как" s="хочу" > </Item>
+    </Synonyms>
+</ItemSet>
